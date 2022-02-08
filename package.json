@@ -1,0 +1,19 @@
+{
+  "name": "test-task-guegov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethers": "^5.5.4",
+    "express": "^4.17.2",
+    "web3": "^1.7.0"
+  }
+}
